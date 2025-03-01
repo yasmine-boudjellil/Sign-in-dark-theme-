@@ -131,8 +131,8 @@ body {
 }
 
 .login-box input {
-    color: #000000; /* White text inside input */
-    background-color: #ffffff; /* Dark background */
+    color: #ffffff; /* White text inside input */
+    background-color: #261a2c; /* Dark background */
     border: 1px solid #576574; /* Subtle border */
 }
 
