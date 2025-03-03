@@ -60,6 +60,7 @@ body {
     transform: translate(-50%, -50%);
     animation: rotate 12s linear infinite;
     pointer-events: none;  
+
     
 }
 
@@ -118,12 +119,15 @@ body {
 
 .login-box h1 {
     color: #ffffff; 
+    font-size: 60px;
+    margin-bottom: 10px;
     
     
 }
 
 .login-box p {
     color: #ffffff; 
+    margin-bottom: 30px;
 }
 
 .login-box label {
